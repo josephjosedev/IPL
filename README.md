@@ -28,7 +28,8 @@
    <p align="center">
    <img src="https://i2.wp.com/orissadiary.com/wp-content/uploads/2021/02/oie_17102022UPRrIyFT.jpg?fit=500%2C500&ssl=1" width="250px">
       
-    - **Rajasthan Royals**
+   - **Rajasthan Royals**
+    
    <p align="center">
    <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/7254/brand.gif?itok=T2XKcJU9" width="250px">
         
@@ -38,7 +39,8 @@
    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Royal_Challengers_Bangalore_2020.svg/1200px-Royal_Challengers_Bangalore_2020.svg.png" width="250px">
     
    - **Sunrisers Hyderabad** 
-    <p align="center">
+    
+   <p align="center">
    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Sunrisers_Hyderabad.svg/1200px-Sunrisers_Hyderabad.svg.png" width="250px">
     
         
