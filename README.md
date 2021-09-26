@@ -17,9 +17,17 @@
    <img src="https://cdn.freelogovectors.net/wp-content/uploads/2019/09/delhi-capitals-logo.png" width="250px">
    
     - **Kolkata Knight Riders**
-    
    <p align="center">
    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png" width="250px">
+    - **Mumbai Indians**
+    <p align="center">
+   <img src="https://static.toiimg.com/thumb/msid-77964433,width-1200,height-900,resizemode-4/.jpg" width="250px">
+     
+     - **Punjab Kings**
+     <p align="center">
+   <img src="https://i2.wp.com/orissadiary.com/wp-content/uploads/2021/02/oie_17102022UPRrIyFT.jpg?fit=500%2C500&ssl=1" width="250px">
+     
+    
     
    
    
