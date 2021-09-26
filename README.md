@@ -17,8 +17,9 @@
    <img src="https://cdn.freelogovectors.net/wp-content/uploads/2019/09/delhi-capitals-logo.png" width="250px">
    
     - **Kolkata Knight Riders**
-    <p align="center">
-   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.pngg" width="250px">
+    
+   <p align="center">
+   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png" width="250px">
     
    
    
