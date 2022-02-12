@@ -43,10 +43,11 @@
    <p align="center">
    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Sunrisers_Hyderabad.svg/1200px-Sunrisers_Hyderabad.svg.png" width="250px">
     
-    - **Lucknow Super Giants**
-    <p align="center">
     
-    <img src="https://www.crictracker.com/wp-content/uploads/2022/01/Lucknow-Super-Giants-logo.jpg" width="250px">
+   - **Lucknow Super Giants**
+    
+     <p align="center">
+     <img src="https://www.crictracker.com/wp-content/uploads/2022/01/Lucknow-Super-Giants-logo.jpg" width="250px">
     
         
       
