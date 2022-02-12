@@ -48,6 +48,8 @@
     
      <p align="center">
      <img src="https://www.crictracker.com/wp-content/uploads/2022/01/Lucknow-Super-Giants-logo.jpg" width="250px">
+      
+   - **Gujarat Titans**   
     
         
       
